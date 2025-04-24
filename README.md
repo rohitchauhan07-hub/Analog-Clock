@@ -15,10 +15,6 @@ This project is a simple digital analog clock built using HTML, CSS, and JavaScr
 - **CSS**: For styling the clock and making it visually appealing.
 - **JavaScript**: For the functionality of the clock, including updating the time every second.
 
-## Getting Started
-
-To get a local copy of this project up and running, follow these simple steps:
-
-1. **Clone the repository**:
+ **Clone the repository**:
    ```bash
-   git clone https://github.com/rohitchauhan07/digital-analog-clock.git
+   git clone [https://github.com/rohitchauhan07-hub/Analog-Clock]
